@@ -39,4 +39,9 @@ Pour toute assistance, expertise ou signalement :
 * **Santé pour tous** 🌿
 
 ---
-*Dépôt maintenu par Tech-Elite Mastery. La science au service de la paix sociale.*
+**Dépôt maintenu par Tech-Elite Mastery. La science au service de la paix sociale.**
+
+## 🤝 Soutenir Tech-Elite Mastery
+Si vous trouvez ces ressources utiles pour la santé communautaire, vous pouvez soutenir notre travail :
+
+[![Soutenir le projet](https://img.shields.io/badge/SOUTENIR-LE%20PROJET-green?style=for-the-badge&logo=heartbeat)](https://zodiacneglect.com/bxez8i8mq?key=d56ea01f8cda3072b221a5d004118688)
