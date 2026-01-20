@@ -44,4 +44,18 @@ Pour toute assistance, expertise ou signalement :
 ## 🤝 Soutenir Tech-Elite Mastery
 Si vous trouvez ces ressources utiles pour la santé communautaire, vous pouvez soutenir notre travail :
 
-[![Soutenir le projet](https://img.shields.io/badge/SOUTENIR-LE%20PROJET-green?style=for-the-badge&logo=heartbeat)](https://zodiacneglect.com/bxez8i8mq?key=d56ea01f8cda3072b221a5d004118688)
+---
+
+### 🤝 Soutenir le Projet Tech-Elite Mastery
+
+**Si vous trouvez ces ressources utiles pour la santé communautaire, vous pouvez soutenir notre travail**
+
+*Vos dons permettent de maintenir cette plateforme de sensibilisation gratuite et accessible à tous.*
+
+| Méthode de Paiement | Détails / Numéro |
+| :--- | :--- |
+| **M-Pesa** 🔴 | `+243 830527818` |
+| **Airtel Money** 🔴 | `+243 973236524` |
+| **Orange Money** 🟠 | `+243 858457536` |
+| **Bitcoin (BTC)** ₿ | `bc1q0u5g44v4azn20wx5al9kt3x40n9hz4rg5vxz02` |
+| **USDT (Crypto)** 💎 | `0x725F3c0f8aA09608E5F233D21DaFb5bB80DB043E` |
