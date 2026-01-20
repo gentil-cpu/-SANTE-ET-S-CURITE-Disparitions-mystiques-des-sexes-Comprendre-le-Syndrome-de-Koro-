@@ -1,0 +1,34 @@
+name: 🚨 Signalement d'Urgence (Panique Koro)
+description: Utilisez ce formulaire pour signaler un incident lié à une rumeur de disparition mystique.
+title: "[URGENT] Signalement - Localisation"
+labels: ["urgence", "sécurité"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 🛡️ Procédure de sécurité
+        Avant de remplir ce formulaire, assurez-vous d'avoir mis la victime en sécurité et d'avoir protégé les personnes accusées pour éviter toute violence.
+  - type: input
+    id: location
+    attributes:
+      label: 📍 Localisation précise
+      description: Dans quelle ville ou quel quartier l'incident a-t-il lieu ?
+    validations:
+      required: true
+  - type: dropdown
+    id: authority_notified
+    attributes:
+      label: 👮‍♂️ Les agents de l'ordre ont-ils été prévenus ?
+      options:
+        - "Oui"
+        - "Non (Veuillez le faire immédiatement)"
+        - "En cours"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: 📝 Description des faits
+      placeholder: Décrivez brièvement la situation actuelle et l'état de la victime...
+    validations:
+      required: true
