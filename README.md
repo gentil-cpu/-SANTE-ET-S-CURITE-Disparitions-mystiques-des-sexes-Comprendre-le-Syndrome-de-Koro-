@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gentil-cpu/-SANTE-ET-S-CURITE-Disparitions-mystiques-des-sexes-Comprendre-le-Syndrome-de-Koro-/refs/heads/main/1768956604556.jpg" width="100%" alt="Tech-Elite Mastery - Syndrome de Koro">
+</p>
+
 # 🛡️ Syndrome de Koro : Science & Sécurité Citoyenne
 
 **Tech-Elite Mastery** s'engage à déconstruire les mythes par la connaissance. Ce dépôt centralise des ressources essentielles pour comprendre le **Syndrome de Koro**, apaiser les tensions sociales et fournir un protocole d'urgence face aux rumeurs de "disparitions mystiques".
@@ -16,11 +20,18 @@ Le terme vient du malais et signifie **tortue**. Il désigne un trouble anxieux 
 * **Réalité médicale** : L'organe est physiquement présent. Il s'agit d'une réaction psychologique intense à un stress ou une rumeur. 🩺
 * **Origine** : Ce syndrome apparaît souvent lors de tensions sociales ou de contagions émotionnelles au sein d'une communauté. 👥
 
-🚨 **PROTOCOLE D'URGENCE : Conduite à tenir**
-**IMPORTANT** : En cas de suspicion de "disparition mystique", la panique collective est le danger principal. Suivez ces étapes :
-1. **ÉLOIGNER LA VICTIME** 🚪 : Retirez la personne de la foule pour calmer son angoisse. L'isolement aide à faire baisser la tension artérielle et le stress.
-2. **ÉVALUATION MÉDICALE** 🏥 : Conduisez la personne vers un centre de santé plutôt que vers des structures non médicales.
-3. **COMMUNICATION** 📢 : Expliquez calmement qu'il s'agit d'un phénomène connu pour éviter les lynchages ou les émeutes.
+---
+
+### 🚨 PROTOCOLE D'URGENCE : Conduite à tenir
+
+1. **ALERTE ET PROTECTION IMMÉDIATE** 📞 : Contactez les agents de sécurité ou les autorités locales dès le signalement. **Protégez prioritairement les personnes injustement accusées** pour prévenir toute violence physique ou justice populaire.
+2. **ÉLOIGNER LA VICTIME** 🚪 : Retirez la personne de la foule pour calmer son angoisse et l'isoler de la panique collective.
+3. **ÉVALUATION MÉDICALE** 🏥 : Conduisez la personne vers un centre de santé. Un examen médical est le seul moyen de prouver par la science que l'organe est physiquement présent.
+4. **COMMUNICATION** 📢 : Expliquez calmement aux témoins qu'il s'agit du **Syndrome de Koro**, un trouble anxieux connu, et non d'un acte mystique.
+
+---
+
+> **Tech-Elite Mastery** vous remercie pour votre lecture et votre engagement. N'oubliez pas de partager ces ressources avec vos proches : une information partagée peut éviter le pire et sauver des vies face à la panique. Ensemble, faisons de la science un rempart pour la paix sociale. 🕊️
 
 ---
 
@@ -36,7 +47,7 @@ Le terme vient du malais et signifie **tortue**. Il désigne un trouble anxieux 
 **Dépôt maintenu par Tech-Elite Mastery. La science au service de la paix sociale.**
 
 ## 🤝 Soutenir Tech-Elite Mastery
-Si vous trouvez ces ressources utiles pour la santé communautaire, vous pouvez soutenir notre travail :
+Si vous trouvez ces ressources utiles, vous pouvez soutenir notre travail :
 
 | Méthode de Paiement | Détails / Numéro |
 | :--- | :--- |
