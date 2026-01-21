@@ -59,3 +59,28 @@ Si vous trouvez ces ressources utiles pour la santé communautaire, vous pouvez 
 | **Orange Money** 🟠 | `+243 858457536` |
 | **Bitcoin (BTC)** ₿ | `bc1q0u5g44v4azn20wx5al9kt3x40n9hz4rg5vxz02` |
 | **USDT (Crypto)** 💎 | `0x725F3c0f8aA09608E5F233D21DaFb5bB80DB043E` |
+
+📞 **Contact :** [+243 830527818](tel:+243830527818) | [Discuter sur WhatsApp 💬](https://wa.me/243830527818)
+📧 **Email :** [gentilfdr@gmail.com](mailto:gentilfdr@gmail.com)
+
+**En collaboration avec :**
+* **Xender Business** 💼
+* **Santé pour tous** 🌿
+
+---
+
+**Dépôt maintenu par Tech-Elite Mastery. La science au service de la paix sociale.**
+
+## 🤝 Soutenir Tech-Elite Mastery
+Si vous trouvez ces ressources utiles pour la santé communautaire, vous pouvez soutenir notre travail :
+
+| Méthode de Paiement | Détails / Numéro |
+| :--- | :--- |
+| **M-Pesa** 🔴 | `+243 830527818` |
+| **Airtel Money** 🔴 | `+243 973236524` |
+| **Orange Money** 🟠 | `+243 858457536` |
+| **Bitcoin (BTC)** ₿ | `bc1q0u5g44v4azn20wx5al9kt3x40n9hz4rg5vxz02` |
+| **USDT (Crypto)** 💎 | `0x725F3c0f8aA09608E5F233D21DaFb5bB80DB043E` |
+
+> **Astuce :** Cliquez sur une adresse pour la sélectionner et la copier facilement. 📋
+> 
